@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
