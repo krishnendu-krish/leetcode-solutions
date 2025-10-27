@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2752-sum-multiples) |
 | [3371-harshad-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/3371-harshad-number) |
 ## Array
 |  |
