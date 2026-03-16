@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0258-add-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2974-minimum-number-game](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
