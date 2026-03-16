@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2974-minimum-number-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
