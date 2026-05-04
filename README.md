@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0001-two-sum) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
