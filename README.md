@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
