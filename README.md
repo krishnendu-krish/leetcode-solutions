@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0136-single-number) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
 |  |
