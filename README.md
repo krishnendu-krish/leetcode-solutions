@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0367-valid-perfect-square) |
