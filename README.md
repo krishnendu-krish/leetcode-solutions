@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
