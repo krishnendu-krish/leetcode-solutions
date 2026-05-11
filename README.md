@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0989-add-to-array-form-of-integer](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0179-largest-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
