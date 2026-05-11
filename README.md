@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/0202-happy-number) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/krishnendu-krish/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
